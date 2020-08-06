@@ -11,6 +11,8 @@ A collection of interesting ideas, sites and reads
  
 ## Books and Interesting Reads
 - https://www.reddit.com/r/coolguides/comments/geipee/99_mindfck_movies/
+- https://www.ycombinator.com/library For running a startup
+
  
 ## Interesting Projects
 - https://hackaday.com/2020/07/06/elegant-shoji-lamps-from-your-3d-printer/
