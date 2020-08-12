@@ -36,4 +36,9 @@ A collection of interesting ideas, sites and reads
 ## Software Sites
 - https://blog.robertelder.org/regular-expression-visualizer/
 - https://wiki.archlinux.org/
+
+## Tools
+- https://www.photopea.com/
+- https://www.falstad.com/
+
   
