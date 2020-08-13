@@ -31,8 +31,7 @@ A collection of interesting ideas, sites and reads
 - http://www.themeter.net/diametri3_e.htm
 - https://www.changpuak.ch/electronics/calc_23.php
 - https://www.4pcb.com/trace-width-calculator.html
-- 
- 
+
 ## Software Sites
 - https://blog.robertelder.org/regular-expression-visualizer/
 - https://wiki.archlinux.org/
@@ -40,5 +39,8 @@ A collection of interesting ideas, sites and reads
 ## Tools
 - https://www.photopea.com/
 - https://www.falstad.com/
+
+## Shoping
+- https://us.misumi-ec.com/
 
   
