@@ -43,4 +43,8 @@ A collection of interesting ideas, sites and reads
 ## Shoping
 - https://us.misumi-ec.com/
 
+## Puzzle Sites
+- http://www.cs.cmu.edu/puzzle/index.html
+
+
   
