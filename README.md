@@ -35,10 +35,15 @@ A collection of interesting ideas, sites and reads
 ## Software Sites
 - https://blog.robertelder.org/regular-expression-visualizer/
 - https://wiki.archlinux.org/
+- https://github.com/huangsam/ultimate-python
 
 ## Tools
 - https://www.photopea.com/
 - https://www.falstad.com/
+
+## Design
+- https://blog.datawrapper.de/beautifulcolors/
+
 
 ## Shoping
 - https://us.misumi-ec.com/
