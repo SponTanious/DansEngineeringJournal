@@ -43,7 +43,7 @@ A collection of interesting ideas, sites and reads
 
 ## Design
 - https://blog.datawrapper.de/beautifulcolors/
-
+- https://jgthms.com/web-design-in-4-minutes/
 
 ## Shoping
 - https://us.misumi-ec.com/
