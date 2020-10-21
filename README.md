@@ -19,6 +19,7 @@ A collection of interesting ideas, sites and reads
 - https://hackaday.com/2020/07/06/elegant-shoji-lamps-from-your-3d-printer/
 - https://hackaday.io/project/163866-christines-blooming-rose
 - https://hackaday.com/2020/07/29/do-you-know-where-your-children-are-check-the-weasley-clock/
+- https://hackaday.com/2020/10/21/bonsai-led-matrix-has-chaotic-roots/
 
 
 ## Mechanical Sites
