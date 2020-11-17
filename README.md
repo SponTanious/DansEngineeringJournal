@@ -42,6 +42,8 @@ A collection of interesting ideas, sites and reads
 ## Tools
 - https://www.photopea.com/
 - https://www.falstad.com/
+- http://www.hemingwayapp.com/
+- https://www.brow.sh/
 
 ## Design
 - https://blog.datawrapper.de/beautifulcolors/
