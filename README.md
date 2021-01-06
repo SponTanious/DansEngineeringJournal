@@ -29,6 +29,7 @@ A collection of interesting ideas, sites and reads
 - https://clearcalcs.com/freetools
 - https://www.engineersedge.com/calculators.htm
 - https://ncalculators.com/engineering-calculators.html
+- https://cpb-us-w2.wpmucdn.com/sites.gatech.edu/dist/2/334/files/2017/09/1700-Animated-Linkages.pdf
 
 ## Electrical Sites
 - http://www.themeter.net/diametri3_e.htm
