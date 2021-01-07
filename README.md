@@ -56,6 +56,7 @@ A collection of interesting ideas, sites and reads
 
 ## Puzzle Sites
 - http://www.cs.cmu.edu/puzzle/index.html
+- https://projecteuler.net/
 
 
   
