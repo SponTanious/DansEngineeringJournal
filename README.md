@@ -8,6 +8,9 @@ A collection of interesting ideas, sites and reads
 ## Ideas
 - Highway Emergency Alert System
 - Home Automation
+
+## Great Tutorials
+- https://blog.miguelgrinberg.com/index
  
 ## Movies, Books and Educational Resources
 - https://www.reddit.com/r/coolguides/comments/geipee/99_mindfck_movies/
