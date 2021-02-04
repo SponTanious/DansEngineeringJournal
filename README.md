@@ -9,11 +9,12 @@ A collection of interesting ideas, sites and reads
 - Highway Emergency Alert System
 - Home Automation
  
-## Movies, Books and Interesting Reads
+## Movies, Books and Educational Resources
 - https://www.reddit.com/r/coolguides/comments/geipee/99_mindfck_movies/
 - https://www.ycombinator.com/library For running a startup
 - https://astrosociety.org/file_download/inline/621a63fc-04d5-4794-8d2b-38e7195056e9
 - https://github.com/EbookFoundation/free-programming-books
+- https://www.ytt-tech.com/electronics/soldering
 
  
 ## Interesting Projects
