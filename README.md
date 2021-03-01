@@ -51,6 +51,8 @@ A collection of interesting ideas, sites and reads
 - https://www.falstad.com/
 - http://www.hemingwayapp.com/
 - https://www.brow.sh/
+- https://flowchart.fun/
+- https://www.desmos.com/calculator
 
 ## Design
 - https://blog.datawrapper.de/beautifulcolors/
