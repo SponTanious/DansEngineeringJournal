@@ -45,6 +45,7 @@ A collection of interesting ideas, sites and reads
 - https://blog.robertelder.org/regular-expression-visualizer/
 - https://wiki.archlinux.org/
 - https://github.com/huangsam/ultimate-python
+- http://www.fmwconcepts.com/imagemagick/index.php
 
 ## Tools
 - https://www.photopea.com/
