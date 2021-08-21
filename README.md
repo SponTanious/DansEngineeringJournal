@@ -1,10 +1,6 @@
 # DansEngineeringJournal
 A collection of interesting ideas, sites and reads
 
-## To Do
-- [ ] Build enclosure for 3D Printer
-- [ ] Get 3D printer Working
-
 ## Ideas
 - Highway Emergency Alert System
 - Home Automation
