@@ -8,6 +8,8 @@ A collection of interesting ideas, sites and reads
 ## Great Learning Tool/Tutorials
 - https://blog.miguelgrinberg.com/index
 - https://www.theconstructsim.com/#/ 
+- https://muted.io/major-minor-scales/ (music)
+- 
  
 ## Movies, Books and Educational Resources
 - https://www.reddit.com/r/coolguides/comments/geipee/99_mindfck_movies/
