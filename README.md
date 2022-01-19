@@ -9,6 +9,7 @@ A collection of interesting ideas, sites and reads
 - https://blog.miguelgrinberg.com/index
 - https://www.theconstructsim.com/#/ 
 - https://muted.io/major-minor-scales/ (music)
+- https://ciechanow.ski/gps/ (gps)
 - 
  
 ## Movies, Books and Educational Resources
