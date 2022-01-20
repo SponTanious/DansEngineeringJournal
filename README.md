@@ -26,6 +26,7 @@ A collection of interesting ideas, sites and reads
 - https://hackaday.com/2020/07/29/do-you-know-where-your-children-are-check-the-weasley-clock/
 - https://hackaday.com/2020/10/21/bonsai-led-matrix-has-chaotic-roots/
 - https://hackaday.com/2021/01/13/sand-plotter-built-with-3d-printer-parts/
+- https://hackaday.io/project/183619-sound-sculpture
 
 
 ## Mechanical Sites
