@@ -19,7 +19,6 @@ A collection of interesting ideas, sites and reads
 - https://github.com/EbookFoundation/free-programming-books
 - https://www.ytt-tech.com/electronics/soldering
 
- 
 ## Interesting Projects
 - https://hackaday.com/2020/07/06/elegant-shoji-lamps-from-your-3d-printer/
 - https://hackaday.io/project/163866-christines-blooming-rose
@@ -28,6 +27,9 @@ A collection of interesting ideas, sites and reads
 - https://hackaday.com/2021/01/13/sand-plotter-built-with-3d-printer-parts/
 - https://hackaday.io/project/183619-sound-sculpture
 
+## Art
+- https://www.vatican.va/various/cappelle/sistina_vr/index.html
+- https://hyper-resolution.org/view.html?pointer=0.111,0.001&i=Rijksmuseum/SK-C-5/SK-C-5_VIS_5-um_2020-09-08
 
 ## Mechanical Sites
 - https://www.makeitfrom.com/
