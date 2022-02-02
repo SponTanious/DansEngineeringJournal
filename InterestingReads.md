@@ -1,6 +1,12 @@
 # DansEngineeringJournal - Interesting Reads
 A collection of articles, books or websites that I enjoyed reading.
 
+## Blogs I frequent
+- https://phys.org/
+- https://news.ycombinator.com/news
+- https://hackaday.com/
+- 
+
 ## Online Security
 - https://arxiv.org/pdf/2112.07498.pdf - Phishing in Organizations: Findings from a Large-Scale and Long-Term Study
 - https://www.usenix.org/system/files/1401_08-12_mickens.pdf - This World of Hours
