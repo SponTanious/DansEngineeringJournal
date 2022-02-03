@@ -38,6 +38,9 @@ A collection of articles, books or websites that I enjoyed reading.
 
 ## Books to read
 - Skybreaker
+- Brave New World
+- little doritt
+
 - Enjoyng God
 - Deeper
 - 2 Corinthians for you
