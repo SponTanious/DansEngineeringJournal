@@ -12,6 +12,10 @@ A collection of articles, books or websites that I enjoyed reading.
 - https://www.usenix.org/system/files/1401_08-12_mickens.pdf - This World of Hours
 - https://www.bastionzero.com/blog/i-read-the-federal-governments-zero-trust-memo-so-you-dont-have-to 
 
+## Movies
+- https://www.vox.com/culture/22840526/colors-movies-tv-gray-digital-color-sludge
+- 
+
 ## Christianity
 - https://ntwrightpage.com/2016/07/12/womens-service-in-the-church-the-biblical-basis/
 - 
