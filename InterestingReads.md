@@ -16,6 +16,10 @@ A collection of articles, books or websites that I enjoyed reading.
 - https://www.vox.com/culture/22840526/colors-movies-tv-gray-digital-color-sludge
 - 
 
+## Energy
+- https://www.bbc.com/news/science-environment-60312633
+- 
+
 ## Christianity
 - https://ntwrightpage.com/2016/07/12/womens-service-in-the-church-the-biblical-basis/
 - 
