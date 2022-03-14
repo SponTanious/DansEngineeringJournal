@@ -16,9 +16,14 @@ A collection of articles, books or websites that I enjoyed reading.
 - https://www.vox.com/culture/22840526/colors-movies-tv-gray-digital-color-sludge
 - 
 
+## English
+- https://theweek.com/articles/541713/15-pairs-words-that-seem-etymologically-related-but-arent
+- 
+
 ## Energy
 - https://www.bbc.com/news/science-environment-60312633
-- 
+- https://www.reuters.com/business/britain-start-approval-process-rolls-royce-mini-nuclear-reactor-2022-03-07/
+- https://www.tokamakenergy.co.uk/tokamak-energy-moves-closer-to-commercial-fusion/
 
 ## Christianity
 - https://ntwrightpage.com/2016/07/12/womens-service-in-the-church-the-biblical-basis/
@@ -43,6 +48,8 @@ A collection of articles, books or websites that I enjoyed reading.
 
 ## 2022 Books I have Read
 - Great Expectations
+- Eleanor Oliphant is Completely fine
+- Skybreaker
 
 ## Books to read
 - Skybreaker
