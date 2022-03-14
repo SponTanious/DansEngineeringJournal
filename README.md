@@ -49,6 +49,7 @@ A collection of interesting ideas, sites and reads
 - https://wiki.archlinux.org/
 - https://github.com/huangsam/ultimate-python
 - http://www.fmwconcepts.com/imagemagick/index.php
+- https://hackingcpp.com/cpp/cheat_sheets.html 
 
 ## Tools
 - https://www.photopea.com/
