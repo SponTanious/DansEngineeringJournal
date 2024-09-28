@@ -26,6 +26,7 @@ A collection of interesting ideas, sites and reads
 - https://hackaday.com/2020/10/21/bonsai-led-matrix-has-chaotic-roots/
 - https://hackaday.com/2021/01/13/sand-plotter-built-with-3d-printer-parts/
 - https://hackaday.io/project/183619-sound-sculpture
+- https://hackaday.com/2024/09/23/custom-mini-neon-signs-in-10-minutes/
 
 ## Art
 - https://www.vatican.va/various/cappelle/sistina_vr/index.html
